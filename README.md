@@ -7,3 +7,5 @@ Objetivou-se especificamente:
 2. Estudar alguns algoritmos de recomendação que se aplicam no contexto educacional.
 
 3. Com base nos itens anteriores, analisar como se poderia aplicar os algoritmos estudados em um protótipo de sistema de tutoria inteligente direcionado ao Projeto Pré-ETEC.
+
+Todos os detalhes se encontram na Monografia.
